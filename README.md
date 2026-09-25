@@ -17,7 +17,7 @@ AI researcher (MRes) building explainable machine learning for healthcare and fi
 
 | Project | Description | Key Skills |
 |---|---|---|
-| [Deployable Readmission App](https://github.com/TochiOkafor/readmission-predictor-app) | Live Streamlit web app + formal Model Card | Deployment, MLOps, Responsible AI |
+| [Deployable Readmission App](https://github.com/TochiOkafor/readmission-predictor-app) | Live Streamlit web app + formal Model Card, containerised with Docker + GitHub Actions CI | Docker, CI/CD, MLOps, Responsible AI |
 | [Sepsis Early Warning LSTM](https://github.com/TochiOkafor/sepsis-early-warning-lstm) | Time-series deep learning on real ICU data with attention + Integrated Gradients | PyTorch, LSTM, Explainability |
 | [Diabetic Retinopathy Detection](https://github.com/TochiOkafor/dr-explainability-dissertation) | MRes dissertation — explainable deep learning for diabetic retinopathy | CNNs, Vision Transformers, XAI |
 | [Healthcare Fairness Audit](https://github.com/TochiOkafor/healthcare-fairness-audit) | Bias detection & mitigation across race, gender, age | Fairlearn, Responsible AI |
